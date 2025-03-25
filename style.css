@@ -20,7 +20,7 @@ body{
     align-items: center;
 }
 .image{
-    mix-blend-mode: multiply;
+    mix-blend-mode: screen;
 }
 .mainhead{
     font-family: sans-serif;
